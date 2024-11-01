@@ -1,0 +1,9 @@
+[package]
+name = "space_protocols"
+authors = ["Jan Piotrzkowski <piotrzkowski.dev@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "A Rust library providing implementations for various space protocols."
+
+[dependencies]
